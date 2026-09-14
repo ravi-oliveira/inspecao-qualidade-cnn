@@ -1,0 +1,13 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Dados e Datasets (Segurança para não travar o git)
+data/
+*.zip
+*.tar.gz
+
+# Arquivos do Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
